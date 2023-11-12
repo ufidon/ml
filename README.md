@@ -64,6 +64,7 @@
   - [DeepLearning.AI](https://www.deeplearning.ai/)
 - *berkeley*
   - [CS 189/289A: Introduction to Machine Learning](https://eecs189.org/)
+    - [spring 2023](https://people.eecs.berkeley.edu/~jrs/189/)
 - *mit*
   - [6.036 Introduction to Machine Learning](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019)
   - [6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/)
