@@ -97,6 +97,7 @@
 ## Research groups
 - [Stanford Machine Learning Group](https://stanfordmlgroup.github.io/)
 - [TinyML](https://tinyml.mit.edu/)
+  - [papers and projects](https://github.com/gigwegbe/tinyml-papers-and-projects)
 - [Princeton CS Artificial Intelligence & Machine Learning](https://aiml.cs.princeton.edu/)
 - [Cornell Machine Learning](https://machinelearning.cis.cornell.edu/)
 - [cmu machine learning department](https://www.ml.cmu.edu/)
