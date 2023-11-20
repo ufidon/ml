@@ -35,6 +35,8 @@
 - [Advanced Machine Learning with Python](https://github.com/packtpublishing/advanced-machine-learning-with-python)
 - [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html)
 - [Deep Learning](https://www.deeplearningbook.org/)
+- [Deep Learning: A Visual Approach](https://www.glassner.com/portfolio/deep-learning-a-visual-approach/)
+  - [notebook](https://github.com/blueberrymusic/Deep-Learning-A-Visual-Approach)
 - [Pattern recognition and machine learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 - [Casual inference in statistics: a primer](http://bayes.cs.ucla.edu/PRIMER/)
 - ---
