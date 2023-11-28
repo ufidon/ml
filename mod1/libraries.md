@@ -1,3 +1,5 @@
+# Ubiquitous Intelligence
+- [Apache TVM](https://tvm.apache.org/)
 - [Embedded Learning Library (ELL)](https://microsoft.github.io/ELL/)
 - [TinyML at MIT](https://tinyml.mit.edu/)
   - [tinyML Foundation](https://www.tinyml.org/)
@@ -13,3 +15,8 @@
 - [The Edge Machine Learning library](https://github.com/Microsoft/EdgeML)
 - [TensorFlow Lite for Microcontrollers](https://www.tensorflow.org/lite/microcontrollers)
 - [Arduino Machine Learning](https://eloquentarduino.com/arduino-machine-learning/)
+
+---
+
+# Large Language Model
+- [LMSYS](https://lmsys.org/)
