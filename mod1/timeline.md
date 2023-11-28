@@ -1,0 +1,8 @@
+- [Timeline of artificial intelligence](https://en.wikipedia.org/wiki/Timeline_of_artificial_intelligence) 
+  - [AI Progress Measurement](https://www.eff.org/ai/metrics)
+  - [The Evolution of Artificial Intelligence](https://achievements.ai/)
+  - [AI timeline](https://www.fabianmosele.com/ai-timeline)
+  - [Timeline of AI and language models](https://lifearchitect.ai/timeline/)
+- [Timeline of machine learning](https://en.wikipedia.org/wiki/Timeline_of_machine_learning)
+  - [Parameter counts in Machine Learning](https://towardsdatascience.com/parameter-counts-in-machine-learning-a312dc4753d0)
+  - [ML Inputs Visualization](https://epochai.org/mlinputs/visualization)

@@ -1,22 +1,22 @@
 # Machine Learning
 
 ## Modules
-1. Machine learning overview
+1. [Machine learning overview](./mod1/README.md)
    1. Fundamental, landscape and applications
-2. Classification
+2. [Classification](./mod2/README.md)
    1. Training models
    2. Support vector machines
    3. Decision trees
    4. Ensemble learning and random forests
-3. Regression
-4. Clustering
+3. [Regression](./mod3/README.md)
+4. [Clustering](./mod4/README.md)
    1. k-means and DBSCAN
    2. Gaussian mixtures
-5. Dimensionality reduction
+5. [Dimensionality reduction](./mod5/README.md)
    1. PCA
    2. Random projection
    3. LLE
-6. Neural networks and deep learning
+6. [Neural networks and deep learning](./mod6/README.md)
 
 
 # References
@@ -103,3 +103,33 @@
 - [Princeton CS Artificial Intelligence & Machine Learning](https://aiml.cs.princeton.edu/)
 - [Cornell Machine Learning](https://machinelearning.cis.cornell.edu/)
 - [cmu machine learning department](https://www.ml.cmu.edu/)
+- *AI research companies*
+  - [OpenAI](https://openai.com/)
+  - [Google AI](https://ai.google/)
+    - [Google research](https://research.google/)
+  - [IBM AI](https://research.ibm.com/artificial-intelligence)
+  - [Microsoft AI](https://www.microsoft.com/en-us/research/research-area/artificial-intelligence/?)
+  - [Meta](https://ai.meta.com/)
+  - [nvidia](https://www.nvidia.com/en-us/ai-data-science/)
+
+## Lists
+- [Awesome Artificial Intelligence (AI)](https://project-awesome.org/owainlewis/awesome-artificial-intelligence)
+  - [Awesome AI Awesomeness](https://github.com/amusi/awesome-ai-awesomeness)
+  - [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai)
+  - [Awesome Data Science](https://github.com/academic/awesome-datascience)
+  - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
+- *competitions, datasets and models*
+  - [OpenML](https://www.openml.org/)
+  - [Open Neural Network Exchange](https://onnx.ai/)
+  - [Kaggle](https://www.kaggle.com/)
+  - [Hugging face](https://huggingface.co/)
+  - [Model Zoo](https://modelzoo.co/)
+  - [Model hub](http://modelhub.ai/)
+  - *framework based*
+    - [TensorFlow hub](https://www.tensorflow.org/hub)
+    - [PyTorch hub](https://pytorch.org/hub/)
+    - [Core ML](https://developer.apple.com/machine-learning/models/)
+- *GUI tools*
+  - [Orange data mining](https://orangedatamining.com/)
+  - [Weka 3: Machine Learning Software in Java](https://www.cs.waikato.ac.nz/ml/weka/)
+- [TOP 20 AI Open Source Projects in 2023](https://web3.career/learn-web3/top-ai-open-source-projects)
