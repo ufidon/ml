@@ -82,6 +82,14 @@
   - *10-315: Introduction to Machine Learning*
     - [spring 2023](https://www.cs.cmu.edu/~10315-s23/)
     - [fall 2020](https://www.cs.cmu.edu/~aarti/Class/10315_Fall20/)
+- *misc*
+  - [Introduction To Machine Learning](https://home.cs.colorado.edu/~DrG/Courses/IntroToMachineLearning)
+  - [Applied Machine Learning Using Python](https://www.unf.edu/~n01237497/classes/2019Fall/CIS6930/)
+  - [Think Deep Learning](https://sunju.org/teach/DL-Spring-2020/)
+  - [Scientific Machine Learning](https://sciml.tamids.tamu.edu/ecen-689-scientific-machine-learning-spr-2023/)
+  - [Visualization Meets AI](https://web.cse.ohio-state.edu/~shen.94/5559/)
+  - [Data Science: principles and practice](https://www.cl.cam.ac.uk/teaching/2021/DataSciII/)
+
 ## Online resources
 - [MIT Julialab](https://julia.mit.edu/)
 - [Juliaup](https://github.com/JuliaLang/juliaup)
