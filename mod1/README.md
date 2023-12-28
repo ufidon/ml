@@ -180,6 +180,28 @@ Prerequisites
     exit
     ``` 
 
-📝 Practice
+💡 Demo: A ML flow
 ---
-- 
+1. visualize the dataset of Happiness vs. GDP per capital
+
+  ![Happiness vs. GDP per capital](./img/money_happy_scatterplot.svg)
+
+2. tweak model parameters
+
+  ![tweak model parameters](./img/tweaking_model_params_plot.svg)
+
+3. find the parameters of the best fit model
+
+  ![best fit model](./img/best_fit_model_plot.svg)
+
+4. predict happiness given GPC using the best fit model
+
+  ![predict](./img/prediction.svg)
+
+5. an overfitting model
+
+  ![overfitting](./img/overfitting_model_plot.svg)
+
+6. apply regularizer on the overfitting model
+
+  ![regularization](./img/ridge_model_plot.svg)
