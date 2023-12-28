@@ -20,3 +20,13 @@
 
 # Large Language Model
 - [LMSYS](https://lmsys.org/)
+
+# Deepfake
+- [DeepFaceLive](https://github.com/iperov/DeepFaceLive)
+- [DeepFaceLab](https://github.com/iperov/DeepFaceLab)
+- [FaceSwap](https://faceswap.dev/)
+- [SimSwap](https://github.com/neuralchen/SimSwap)
+- [FaceFusion](https://github.com/facefusion/facefusion)
+- [Ghost](https://github.com/ai-forever/ghost)
+- [SadTalker](https://github.com/OpenTalker/SadTalker)
+- [Real-Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)

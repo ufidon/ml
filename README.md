@@ -25,7 +25,7 @@
 
 ## Textbooks
 - [Introduction to Machine Learning with Python](https://github.com/amueller/introduction_to_ml_with_python)
-- [Hands-on ML with Scikit-Learn, Keras & TF 3e](https://github.com/ageron/handson-ml3)
+- [HOML3: Hands-on ML with Scikit-Learn, Keras & TF 3e](https://github.com/ageron/handson-ml3)
 - [Building Machine Learning Systems with Python 3e](https://github.com/PacktPublishing/Building-Machine-Learning-Systems-with-Python-Third-edition)
 - [Python Machine Learning 3e](https://github.com/rasbt/python-machine-learning-book-3rd-edition)
 - ---
@@ -40,6 +40,10 @@
   - [notebook](https://github.com/blueberrymusic/Deep-Learning-A-Visual-Approach)
 - [Pattern recognition and machine learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 - [Casual inference in statistics: a primer](http://bayes.cs.ucla.edu/PRIMER/)
+- [Mathematics for Machine Learning](https://mml-book.github.io/)
+  - [Matrix Calculus](https://www.matrixcalculus.org/)
+- [Machine Learning - A First Course for Engineers and Scientists](https://smlbook.org/)
+- [Machine Learning Refined: Foundations, Algorithms, and Applications 2e](https://github.com/jermwatt/machine_learning_refined)
 - ---
 - [Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
 - [Machine Learning From Scratch: Derivations in Concept and Code](https://dafriedman97.github.io/mlbook/content/introduction.html)
@@ -47,7 +51,6 @@
 - [Machine Learning Notebooks, 3rd edition](https://github.com/ageron/handson-ml3)
 - ---
 - [Machine learning with Julia – How to Build and Deploy a Trained AI Model as a Web Service](https://www.freecodecamp.org/news/machine-learning-using-julia/)
-  - [Machine Learning in Julia](https://towardsdatascience.com/machine-learning-in-julia-5bca700e0348)
 - [Categories Great and Small](https://bartoszmilewski.com/2014/12/05/categories-great-and-small/)
   - [pdf](https://github.com/hmemcpy/milewski-ctfp-pdf/releases/tag/v1.3.0)
 - ---
@@ -90,6 +93,7 @@
   - [Scientific Machine Learning](https://sciml.tamids.tamu.edu/ecen-689-scientific-machine-learning-spr-2023/)
   - [Visualization Meets AI](https://web.cse.ohio-state.edu/~shen.94/5559/)
   - [Data Science: principles and practice](https://www.cl.cam.ac.uk/teaching/2021/DataSciII/)
+  - [ECE 208/408 - The Art of Machine Learning](https://hajim.rochester.edu/ece/sites/zduan/teaching/ece408/index.html)
 
 ## Online resources
 - [MIT Julialab](https://julia.mit.edu/)
