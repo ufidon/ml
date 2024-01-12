@@ -94,7 +94,10 @@
   - [Visualization Meets AI](https://web.cse.ohio-state.edu/~shen.94/5559/)
   - [Data Science: principles and practice](https://www.cl.cam.ac.uk/teaching/2021/DataSciII/)
   - [ECE 208/408 - The Art of Machine Learning](https://hajim.rochester.edu/ece/sites/zduan/teaching/ece408/index.html)
-
+  - ---
+  - [COMPSCI 589: Open Source ML Course](https://github.com/mlds-lab/COMPSCI-589)
+  - [Machine Learning](https://www.keithdillon.com/index.php/teaching/)
+  - [Deep learning](https://kenndanielso.github.io/mlrefined/index.html)
 ## Online resources
 - [MIT Julialab](https://julia.mit.edu/)
 - [Juliaup](https://github.com/JuliaLang/juliaup)
