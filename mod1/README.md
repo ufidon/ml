@@ -5,10 +5,10 @@ __Machine learning overview and prerequisites__
   - [Python programming](./src/pytutor.ipynb)
   - [Numpy](./np.ipynb)
     - data processing
+  - [Pandas](./pd.ipynb)
+    - data tabularization
   - Matplotlib
     - data visualization
-  - Pandas
-    - data tabularization
 - Mathematical foundation
   - Linear algebra
   - Differential calculus
