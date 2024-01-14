@@ -7,7 +7,7 @@ __Machine learning overview and prerequisites__
     - data processing
   - [Pandas](./pd.ipynb)
     - data tabularization
-  - Matplotlib
+  - [Matplotlib](./mpl.ipynb)
     - data visualization
 - Mathematical foundation
   - Linear algebra
