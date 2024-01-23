@@ -6,9 +6,9 @@ Given $N$ samples $\lbrace (\vec{x_1},y_1),(\vec{x_2},y_2), ⋯, (\vec{x_N},y_N)
 - $y_i$: sample $i$'s label or class
   - $y_i∈Y$, label or class space
 
-Training a machine learning model $m_{\vec{α}}(\vec{x},y)$ is the process of optimizing its parameter vector $\vec{α}=(α_1,α_2,⋯,α_M)$ in its parameter space $\mathcal{Α}$ to find the $\vec{α^*}$ which maximizes a scoring function $s:X×Y→R$,
+Training a machine learning model $m_{\vec{α}}: \hat{y}=m_{\vec{α}}(\vec{x},y)$ is the process of optimizing its parameter vector $\vec{α}=(α_1,α_2,⋯,α_M)$ in its parameter space $\mathcal{Α}$ to find the $\vec{α^*}$ which maximizes a scoring function $s:X×Y→R$,
 
-$\displaystyle m_{\vec{α^*}}=\argmax_{\mathcal{Α}} m(\vec{x},y)$
+$\displaystyle s^*=\mbox{argmax}_{\vec{α^*} \in \mathcal{Α}} s(\hat{y},y)=\mbox{argmax}_{\vec{α^*} \in \mathcal{Α}} s(m(\vec{x},y),y)$
 
 - $R$: real number
 
