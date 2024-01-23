@@ -8,7 +8,7 @@ Given $N$ samples $\lbrace (\vec{x_1},y_1),(\vec{x_2},y_2), ⋯, (\vec{x_N},y_N)
 
 Training a machine learning model $m_{\vec{α}}: \hat{y}=m_{\vec{α}}(\vec{x},y)$ is the process of optimizing its parameter vector $\vec{α}=(α_1,α_2,⋯,α_M)$ in its parameter space $\mathcal{Α}$ to find the $\vec{α^*}$ which maximizes a scoring function $s:X×Y→R$,
 
-$\displaystyle s^*=\mbox{argmax}_{\vec{α^*} \in \mathcal{Α}} s(\hat{y},y)=\mbox{argmax}_{\vec{α^*} \in \mathcal{Α}} s(m(\vec{x},y),y)$
+$\displaystyle s^*=argmax_{\vec{α^*} \in \mathcal{Α}} s(\hat{y},y)=argmax_{\vec{α^*} \in \mathcal{Α}} s(m(\vec{x},y),y)$
 
 - $R$: real number
 
