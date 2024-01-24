@@ -14,6 +14,6 @@ $\displaystyle s^*=argmax_{\vec{α^*} \in \mathcal{Α}} s(\hat{y},y)=argmax_{\ve
 
 __Topics__
 - [Classification model training and evaluation](./cmte.ipynb)
-- Support vector machines
+- [Support vector machines](./svm.ipynb)
 - Decision trees
 - Ensemble learning and random forests
