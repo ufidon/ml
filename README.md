@@ -3,12 +3,14 @@
 ## Modules
 1. [Machine learning overview](./mod1/README.md)
    1. Fundamental, landscape and applications
-2. [Classification](./mod2/README.md)
-   1. Training models
-   2. Support vector machines
-   3. Decision trees
-   4. Ensemble learning and random forests
-3. [Regression](./mod3/README.md)
+   2. Python scientific programming
+2. [Classification and regression](./mod2/README.md)
+   1. Classification
+   2. Regression
+3. [Machine learning models](./mod3/README.md)
+   1. Support vector machines
+   2. Decision trees
+   3. Ensemble learning and random forests
 4. [Clustering](./mod4/README.md)
    1. k-means and DBSCAN
    2. Gaussian mixtures
