@@ -11,7 +11,7 @@
    1. Support vector machines
    2. Decision trees
    3. Ensemble learning and random forests
-4. [Clustering](./mod4/README.md)
+4. [Unsupervised learning](./mod4/README.md)
    1. k-means and DBSCAN
    2. Gaussian mixtures
 5. [Dimensionality reduction](./mod5/README.md)
