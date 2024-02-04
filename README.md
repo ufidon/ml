@@ -11,13 +11,13 @@
    1. Support vector machines
    2. Decision trees
    3. Ensemble learning and random forests
-4. [Unsupervised learning](./mod4/README.md)
-   1. k-means and DBSCAN
-   2. Gaussian mixtures
-5. [Dimensionality reduction](./mod5/README.md)
+4. [Dimensionality reduction](./mod4/README.md)
    1. PCA
    2. Random projection
    3. LLE
+5. [Unsupervised learning](./mod5/README.md)
+   1. k-means and DBSCAN
+   2. Gaussian mixtures
 6. [Neural networks and deep learning](./mod6/README.md)
 
 
