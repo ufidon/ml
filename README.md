@@ -13,7 +13,7 @@
    3. Ensemble learning and random forests
 4. [Dimensionality reduction](./mod4/README.md)
    1. PCA
-   2. Random projection
+   2. Random projection 
    3. LLE
 5. [Unsupervised learning](./mod5/README.md)
    1. k-means and DBSCAN
